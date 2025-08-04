@@ -1,4 +1,4 @@
 @echo off
 
-GaiAddress_NEW.py %*
+Address.py %*
 pause
